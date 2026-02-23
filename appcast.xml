@@ -7,13 +7,13 @@
         <language>en</language>
         <item>
             <title>Version 1.0.0</title>
-            <sparkle:version>202602232159</sparkle:version>
+            <sparkle:version>202602232205</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <pubDate>Sun, 23 Feb 2026 21:59:00 +0000</pubDate>
+            <pubDate>Mon, 23 Feb 2026 22:06:29 +0000</pubDate>
             <enclosure url="https://github.com/ashbridgewater/CricketLive-releases/releases/download/v1.0.0/CricketLive.zip"
                        type="application/octet-stream"
-                       sparkle:edSignature="A6MlpqaQLdDCaKXxpbLkOF0a1Ko398ekuExq3cET2SD3lz4rN3usqpqe4tPY36Ck8OQVLwcCoEdeT1toYuVKCA=="
-                       length="2103084" />
+                       sparkle:edSignature="jMdaPVRu83uPBPDjXD7kVbKqRiq0Fsa2cP7CR2tPs3M7PAsuw+vFm6daBeH/MCwN49D0eFo/gve3PFojpBIzCQ=="
+                       length="3252485" />
         </item>
     </channel>
 </rss>
