@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CricketLive</title>
+        <link>https://raw.githubusercontent.com/ashbridgewater/CricketLive-releases/main/appcast.xml</link>
+        <description>CricketLive update feed</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:version>202602232159</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <pubDate>Sun, 23 Feb 2026 21:59:00 +0000</pubDate>
+            <enclosure url="https://github.com/ashbridgewater/CricketLive-releases/releases/download/v1.0.0/CricketLive.zip"
+                       type="application/octet-stream"
+                       sparkle:edSignature="A6MlpqaQLdDCaKXxpbLkOF0a1Ko398ekuExq3cET2SD3lz4rN3usqpqe4tPY36Ck8OQVLwcCoEdeT1toYuVKCA=="
+                       length="2103084" />
+        </item>
+    </channel>
+</rss>
