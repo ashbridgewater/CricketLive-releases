@@ -6,6 +6,15 @@
         <description>CricketLive update feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.0</title>
+            <sparkle:version>202606041000</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <pubDate>Thu, 04 Jun 2026 09:02:07 +0000</pubDate>
+            <enclosure url="https://github.com/ashbridgewater/CricketLive-releases/releases/download/v1.1.0/CricketLive.zip"
+                       type="application/octet-stream"
+                       sparkle:edSignature="NTHvCwCcInA4hEfUpSDFJBOMcA/m8GD1PyY8Zl7Whq5FCpEgz0RDN+eRPmA1YcDZdmy5krJ/PU9yBXw8Ydn2Bw==" length="3805696" />
+        </item>
+        <item>
             <title>Version 1.0.4</title>
             <sparkle:version>202602261706</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
